@@ -29,6 +29,6 @@ It still went through the lexical analysis since it's purpose is to just name th
 <br>
 <img width="589" alt="image" src="https://github.com/user-attachments/assets/b7c0410a-1394-46b7-a4be-c64bb8f87df1">
 <br>
-FOr this last part, it threw an error because of the missing semi-colon. Without the semi-colon, the java compiler or interpreter cannot correctly parse the end of a statement, leading to syntax errors. 
+For this last part, it threw an error because of the missing semi-colon. Without the semi-colon, the java compiler or interpreter cannot correctly parse the end of a statement, leading to syntax errors. 
 <br>
 <img width="591" alt="image" src="https://github.com/user-attachments/assets/2fabbdd1-f7e7-4225-a18e-ba2453fcc6ef">
