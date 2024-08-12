@@ -7,6 +7,7 @@ You will first need to open a file to be able to activate and check the analyses
 <img width="592" alt="image" src="https://github.com/user-attachments/assets/fc0e820b-73fd-4154-9fcb-be3f3d74c80e">
 <br>
 Once a file is selected-- recommended to be a text file that contains variable declaration in Java-- it will show in the text-area.
+
 <img width="594" alt="image" src="https://github.com/user-attachments/assets/4e595088-b87f-496a-9b22-300add676004">
 <br>
 As you can see, once you click on the Lexical Analysis, it will show the data types of each words/characters it will see that is separated by spaces.
